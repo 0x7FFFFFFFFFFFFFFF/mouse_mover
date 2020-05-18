@@ -74,7 +74,7 @@ namespace mouse_mover
             const int mouseMoveLoopSleep = 1;
             const int mouseSpeed = 1;
             const int moveSquareSize = 3;
-            const int interval = 5000;
+            const int interval = 20000;
             
             while (true)
             {
