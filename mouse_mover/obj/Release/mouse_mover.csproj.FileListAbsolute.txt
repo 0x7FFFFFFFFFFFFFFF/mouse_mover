@@ -1,0 +1,6 @@
+C:\my_projects\mouse_mover\mouse_mover\bin\Release\mouse_mover.exe.config
+C:\my_projects\mouse_mover\mouse_mover\bin\Release\mouse_mover.exe
+C:\my_projects\mouse_mover\mouse_mover\bin\Release\mouse_mover.pdb
+C:\my_projects\mouse_mover\mouse_mover\obj\Release\mouse_mover.csproj.CoreCompileInputs.cache
+C:\my_projects\mouse_mover\mouse_mover\obj\Release\mouse_mover.exe
+C:\my_projects\mouse_mover\mouse_mover\obj\Release\mouse_mover.pdb
