@@ -74,8 +74,13 @@ namespace mouse_mover
             const int mouseMoveLoopSleep = 1;
             const int mouseSpeed = 1;
             const int moveSquareSize = 3;
-            const int interval = 20000;
-            
+            int interval = 60000;
+
+            if (args.Length == 1)
+            {
+                int.TryParse(args[0], out interval);
+            }
+
             while (true)
             {
                 var cursorStartPosition = Cursor.Position;

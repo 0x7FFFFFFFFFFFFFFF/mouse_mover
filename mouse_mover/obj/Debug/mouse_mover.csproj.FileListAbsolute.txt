@@ -1,7 +1,6 @@
 C:\my_projects\mouse_mover\mouse_mover\bin\Debug\mouse_mover.exe.config
 C:\my_projects\mouse_mover\mouse_mover\bin\Debug\mouse_mover.exe
 C:\my_projects\mouse_mover\mouse_mover\bin\Debug\mouse_mover.pdb
-C:\my_projects\mouse_mover\mouse_mover\obj\Debug\mouse_mover.csprojAssemblyReference.cache
 C:\my_projects\mouse_mover\mouse_mover\obj\Debug\mouse_mover.csproj.CoreCompileInputs.cache
 C:\my_projects\mouse_mover\mouse_mover\obj\Debug\mouse_mover.exe
 C:\my_projects\mouse_mover\mouse_mover\obj\Debug\mouse_mover.pdb
